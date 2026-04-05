@@ -31,5 +31,3 @@ Un juego de Blackjack interactivo creado para el navegador, donde el jugador se 
 
 * [ ] Refactorizar el código JavaScript utilizando el patrón módulo para mayor seguridad y evitar variables globales.
 * [ ] Mejorar la interfaz gráfica (UI) y las animaciones al repartir las cartas.
-* [ ] Optimizar la lógica de la carta "As" (A) para que valga 1 u 11 dependiendo de la conveniencia del jugador.
-* [ ] Manejo de apuestas y sistema de puntaje acumulativo.
