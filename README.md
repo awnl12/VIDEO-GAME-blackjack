@@ -20,6 +20,10 @@ Un juego de Blackjack interactivo creado para el navegador, donde el jugador se 
 * **Underscore.js** (Utilizado específicamente para la función `_.shuffle` y mezclar el deck)
 
 ## 📸 Captura de Pantalla
+<img width="1782" height="932" alt="juegoempiza" src="https://github.com/user-attachments/assets/8e6bf96e-1cdd-467d-b0e8-7dbde2928e75" />
+
+![compug](https://github.com/user-attachments/assets/15f63494-5d5a-4818-b032-db435d5fa294)
+
 
 <img width="1863" height="933" alt="blackjack" src="https://github.com/user-attachments/assets/52a8fe36-84d3-462a-873d-a7f80ccad79a" />
 
