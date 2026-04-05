@@ -26,8 +26,3 @@ Un juego de Blackjack interactivo creado para el navegador, donde el jugador se 
 
 
 <img width="1863" height="933" alt="blackjack" src="https://github.com/user-attachments/assets/52a8fe36-84d3-462a-873d-a7f80ccad79a" />
-
-## 🔧 Próximas Optimizaciones (To-Do)
-
-* [ ] Refactorizar el código JavaScript utilizando el patrón módulo para mayor seguridad y evitar variables globales.
-* [ ] Mejorar la interfaz gráfica (UI) y las animaciones al repartir las cartas.
